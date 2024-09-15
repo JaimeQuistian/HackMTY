@@ -1,0 +1,13 @@
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\bin\Debug\Work.exe.config
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\bin\Debug\Work.exe
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\bin\Debug\Work.pdb
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\ProblematicDevelopers.csproj.AssemblyReference.cache
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.frmLogin.resources
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.frmActividad.resources
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.frmConoceTuCuerpo.resources
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.frmInformacion.resources
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.Properties.Resources.resources
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\ProblematicDevelopers.csproj.GenerateResource.cache
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\ProblematicDevelopers.csproj.CoreCompileInputs.cache
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.exe
+C:\Users\jtoma\source\repos\ProblematicDevelopers\Work\obj\Debug\Work.pdb
